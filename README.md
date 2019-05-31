@@ -1,4 +1,4 @@
-#Auth0 to Angular V7
+# Auth0 to Angular V7
 
 > This App `Auth0app`, connect Angular with Auth0, using one page public and other private.
 
